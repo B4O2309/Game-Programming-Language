@@ -1,0 +1,4 @@
+C:\Users\baonh\OneDrive\Máy tính\VTC\Game Programming Language\Semi-Final\Lab_Semi_Final\Lab_Semi_Final\obj\Debug\net8.0\Lab_Semi_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baonh\OneDrive\Máy tính\VTC\Game Programming Language\Semi-Final\Lab_Semi_Final\Lab_Semi_Final\obj\Debug\net8.0\Lab_Semi_Final.AssemblyInfoInputs.cache
+C:\Users\baonh\OneDrive\Máy tính\VTC\Game Programming Language\Semi-Final\Lab_Semi_Final\Lab_Semi_Final\obj\Debug\net8.0\Lab_Semi_Final.AssemblyInfo.cs
+C:\Users\baonh\OneDrive\Máy tính\VTC\Game Programming Language\Semi-Final\Lab_Semi_Final\Lab_Semi_Final\obj\Debug\net8.0\Lab_Semi_Final.csproj.CoreCompileInputs.cache
